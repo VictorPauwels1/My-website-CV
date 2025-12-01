@@ -1,0 +1,26 @@
+{
+  "nom": "Pauwels",
+  "prenom": "Victor",
+  "email": "victorpauwels235@gmail.com",
+  "telephone": "0472014433",
+  "ville": "Enghien",
+  "github": "https://github.com/VictorPauwels1",
+  "portfolio": "",
+  "objectif": "Web developper",
+  "competences": [
+    "Travail d'équipe",
+    "Résolution de problème",
+    "Apprendre"
+  ],
+  "experiences": [
+    "Job étudiant dans une étude d'huissier",
+    "15 ans de Patro (dont 4 en tant qu'animateur et 2 en tant que président)",
+    "Job étudiant en tant que jardinier"
+  ],
+  "formations": [
+    "Bachelier en informatique de gestion - HELHa (en cours)",
+    "Certificat en programmation web - OpenClassrooms",
+    "Diplôme de secondaire supérieur - Institut Saint-André"
+  ],
+  "interets": null
+}

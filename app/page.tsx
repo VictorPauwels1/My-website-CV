@@ -1,11 +1,11 @@
-import { addTasks, getTasks } from "@/lib/task";
+import { addCV, getCV } from "@/lib/cv";
 
 export default async function Home() {
-  const tasks = await getTasks()
+  const tasks = await getCV()
   return (
     <div className="flex flex-col min-h-screen justify-center bg-zinc-50 font-sans dark:bg-black">
       <h1 className="font-bold">Todo list</h1>
-            <form action={addTasks}>
+            <form action={addCV}>
                 <label>Ajouter une tâche : 
                     <input name = "title" className="border" />
                 </label>
